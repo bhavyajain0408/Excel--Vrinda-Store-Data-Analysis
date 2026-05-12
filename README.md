@@ -39,4 +39,4 @@ The main purpose of this project is to analyze Vrinda Store’s sales data and t
 This dashboard helps businesses monitor sales performance, understand customer trends, optimize sales channels, and make informed business decisions through visual analytics and interactive reporting.
 
 5.screenshot: 
-How it look like:
+How it look like:https://github.com/bhavyajain0408/Excel--Vrinda-Store-Data-Analysis/commit/eb6e58b0032a650d17e442e66ab3549477fe5773
