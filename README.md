@@ -10,22 +10,22 @@ The project transforms raw sales data into meaningful business insights, enablin
 The main purpose of this project is to analyze Vrinda Store’s sales data and transform raw information into meaningful business insights using Microsoft Excel. The dashboard helps track sales performance, customer behavior, order trends, and channel-wise performance to support data-driven decision-making and business growth.
 
 1.Key Features
-. Interactive dashboard with slicers and filters
-. Orders vs Sales analysis
-. Sales analysis by gender and age group
-. Order status tracking
-. Channel-wise sales performance
-. Top 5 state-wise sales analysis
-. Dynamic charts and business insights generation
+* Interactive dashboard with slicers and filters
+* Orders vs Sales analysis
+* Sales analysis by gender and age group
+* Order status tracking
+* Channel-wise sales performance
+* Top 5 state-wise sales analysis
+* Dynamic charts and business insights generation
 
 2.Tools & Technologies Used
-. Microsoft Excel
-. Pivot Tables
-. Pivot Charts
-. Slicers
-. Data Cleaning & Formatting
-. Dashboard Design
-. Data Visualization
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Data Cleaning & Formatting
+* Dashboard Design
+* Data Visualization
 
 3.Dashboard Insights
 * Women customers contributed higher sales compared to men
